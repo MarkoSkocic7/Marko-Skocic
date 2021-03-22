@@ -6,6 +6,6 @@ namespace ConsoleApp3
 {
     class Class1
     {
-        //promjena
+        
     }
 }
